@@ -1,0 +1,10 @@
+*.aux
+*.swp
+*.bbl
+*.blg
+*.dvi
+*.log
+*.out
+*.pdf
+*.ps
+*.gz
